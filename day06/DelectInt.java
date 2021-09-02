@@ -2,6 +2,7 @@ package day06;
 import day05.Array;
 
 import java.util.Random;
+//测试修改代码
 public class DelectInt {
     public static void main(String[] args) {
         Random ran=new Random();
