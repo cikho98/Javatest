@@ -1,4 +1,4 @@
-package day05;
+package Javatest.day05;
 
 public class Muil {
     public static void main(String[] args) {

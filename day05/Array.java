@@ -1,4 +1,4 @@
-package day05;
+package Javatest.day05;
 import java.util.Random;
 
 

@@ -1,5 +1,4 @@
-package day06;
-import day05.Array;
+package Javatest.day06;
 
 import java.util.Random;
 //测试修改代码

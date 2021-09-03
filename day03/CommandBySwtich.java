@@ -1,5 +1,4 @@
-package day03;
-import com.sun.org.apache.bcel.internal.generic.SWITCH;
+package Javatest.day03;
 
 import java.util.Scanner;
 public class CommandBySwtich {
