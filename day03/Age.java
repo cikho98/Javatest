@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package Javatest.day03;
+=======
+package day03;
+>>>>>>> df7dd1fbbff0ae26773b8801dd640e374f4f8e2c
 import java.util.Scanner;
 
 public class Age {
