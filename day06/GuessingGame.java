@@ -6,9 +6,14 @@ public class GuessingGame {
     public static void main(String[] args) {
         int count=0;
         char[] chs = generate();
+        Scanner scan=new Scanner(System.in);
+        int len;
+        do {
+            System.out.println("请输入等级：");
+            len = scan.nextInt();
+        } while(len>=8);
         System.out.println(chs);
         System.out.println("游戏开始");
-        Scanner scan=new Scanner(System.in);
         int i =0;
         while (i<5){
             String str=scan.next().toUpperCase();
