@@ -1,5 +1,4 @@
 package Javatest.day03;
-
 import java.util.Scanner;
 public class CommandBySwtich {
     public static void main(String[] args) {

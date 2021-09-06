@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 package Javatest.day04;
-=======
-package day04;
->>>>>>> df7dd1fbbff0ae26773b8801dd640e374f4f8e2c
 import java.util.Scanner;
 
 public class doWhileguess {
