@@ -1,4 +1,4 @@
-package Javatest.OOday02;
+package Javatest.OOday03;
 
 public class Cell {
     int row;//行

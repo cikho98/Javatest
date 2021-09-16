@@ -1,8 +1,10 @@
-package Javatest.OOday02;
+package Javatest.OOday03;
+
 
 public class CellTest {
     public static void main(String[] args) {
-        ClassT t = new ClassT(0, 0);
+        T t = new T(0, 0);
+        I i = new I(10,5);
         t.print();
         System.out.println("下落");
         t.drop();
